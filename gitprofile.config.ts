@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             'Chilljoy is a 3D on rails shooter made in Unity 3D. I worked as the gamplay programmer for the firing mechanics and the super attacks.',
           imageUrl:
-            'https://img.itch.zone/aW1nLzE1ODg3NTAzLnBuZw==/original/tKrBX0.png',
+            'https://img.itch.zone/aW1hZ2UvMjY1OTM3MS8xNTg4NzQxNS5wbmc=/794x1000/ylY5aC.png',
           link: 'https://workhorsestudio.itch.io/chill-joy',
         },
         {
-          title: 'Project Name',
+          title: 'Poly Vinyl Pests!',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Poly Vinyl Pests! is an isometric twin stick shooter made in Unity 3D. I worked as the AI programmer for the larva enemies in the third boss sequence.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://img.itch.zone/aW1nLzE5MDM1Njk3LnBuZw==/original/3LIzRn.png',
+          link: 'https://jeffreypopek.itch.io/poly-vinyl-pests',
         },
       ],
     },
