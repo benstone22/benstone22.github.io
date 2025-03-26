@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'www.linkedin.com/in/benstone22',
     x: '',
     mastodon: '',
     researchGate: '',
