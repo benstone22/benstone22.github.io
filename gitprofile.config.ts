@@ -89,14 +89,7 @@ const CONFIG = {
     'MASM x64',
     'Jira',
     'Confluence',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
+    
   ],
   experiences: [
     {
