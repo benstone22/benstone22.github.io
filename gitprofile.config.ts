@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['benstone22/GameAIFinal','benstone22/PositionPunch'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['benstone22/GameAIFinal','benstone22/PositionPunch','samuel-barnett/GPR300FINAL'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
