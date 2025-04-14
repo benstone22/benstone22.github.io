@@ -33,9 +33,9 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Chilljoy',
+          title: 'Chill Joy',
           description:
-            'Chilljoy is a 3D on rails shooter made in Unity 3D. I worked as the gamplay programmer for the firing mechanics and the super attacks.',
+            'Chill Joy is a 3D on rails shooter made in Unity 3D. I worked as the gamplay programmer for the firing mechanics and the super attacks.',
           imageUrl:
             'https://i.postimg.cc/7YDdXQYz/Chilljoy-Logo.png',
           link: 'https://workhorsestudio.itch.io/chill-joy',
