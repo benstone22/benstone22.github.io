@@ -288,7 +288,7 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                   icon={<FaHashnode />}
                   title="Hashnode:"
                   value={social.hashnode}
-                  link={`https://www.hashnode.com/@${social.hashnode.replace('@', '')}`}
+                  link={`https://www.hashnode.com/@${social.hashnode}`}
                 />
                )}
               {social?.youtube && (
