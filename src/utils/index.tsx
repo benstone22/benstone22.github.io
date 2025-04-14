@@ -68,6 +68,7 @@ export const getSanitizedConfig = (
         instagram: config?.social?.instagram,
         reddit: config?.social?.reddit,
         threads: config?.social?.threads,
+        hashnode: config?.social?.hashnode,
         youtube: config?.social?.youtube,
         udemy: config?.social?.udemy,
         dribbble: config?.social?.dribbble,

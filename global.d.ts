@@ -148,6 +148,11 @@ interface Social {
   threads?: string;
 
   /**
+   * Hashnode
+   */
+  hashnode?: string;
+
+  /**
    * YouTube
    */
   youtube?: string;
