@@ -18,8 +18,8 @@ import {
   FaStackOverflow,
   FaTelegram,
   FaYoutube,
-  FaHashnode
 } from 'react-icons/fa';
+import { FaHashnode } from "react-icons/fa6";
 import { FaSquareThreads } from 'react-icons/fa6';
 import { MdLocationOn } from 'react-icons/md';
 import { RiMailFill, RiPhoneFill } from 'react-icons/ri';
