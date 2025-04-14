@@ -289,7 +289,7 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                title="Hashnode:"
                value={social.hashnode}
                link={`https://www.hashnode.com/@${social.hashnode.replace('@', '')}`}
-               />
+                />
                )}
               {social?.youtube && (
                 <ListItem
