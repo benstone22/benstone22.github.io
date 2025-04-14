@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Poly Vinyl Pests! is an isometric twin stick shooter made in Unity 3D. I worked as the AI programmer for the larva enemies in the third boss sequence.',
           imageUrl:
-            'https://i.postimg.cc/j2zV2pqx/PVPests-1920-Square.png',
+            'https://i.postimg.cc/d0zSC5xL/PVPests-1920-Square.png',
           link: 'https://jeffreypopek.itch.io/poly-vinyl-pests',
         },
       ],
