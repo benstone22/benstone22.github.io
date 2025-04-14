@@ -65,6 +65,7 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
+    hashnode:'benstone22',
     youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',

@@ -18,6 +18,7 @@ import {
   FaStackOverflow,
   FaTelegram,
   FaYoutube,
+  FaHashnode
 } from 'react-icons/fa';
 import { FaSquareThreads } from 'react-icons/fa6';
 import { MdLocationOn } from 'react-icons/md';
@@ -282,6 +283,14 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                   link={`https://www.threads.net/@${social.threads.replace('@', '')}`}
                 />
               )}
+              {social?.hashnode && (
+               <ListItem
+               icon={<FaHashnode />}
+               title="Hashnode:"
+               value={social.hashnode}
+               link={`https://www.hashnode.com/@${social.hashnode.replace('@', '')}`}
+               />
+               )}
               {social?.youtube && (
                 <ListItem
                   icon={<FaYoutube />}
