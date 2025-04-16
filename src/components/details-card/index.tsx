@@ -286,9 +286,9 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
               {social?.hashnode && (
                 <ListItem
                   icon={<FaHashnode />}
-                  title="Hashnode:"
+                  title="Blog:"
                   value={social.hashnode}
-                  link={`https://www.hashnode.com/@${social.hashnode}`}
+                  link={`https://${social.hashnode}.hashnode.dev`}
                 />
                )}
               {social?.youtube && (
