@@ -81,7 +81,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/142TnegNLm4dlpU5VIXpa6c9IZj3wmcXK/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://benstone22.github.io/Resume_2025.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
