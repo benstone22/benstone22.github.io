@@ -81,7 +81,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://benstone22.github.io/Resume_2026.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://benstone22.github.io/Ben_Stone_Resume_2026.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
