@@ -96,7 +96,7 @@ const CONFIG = {
     {
       company: 'Best Buy',
       position: 'Sales Associate',
-      from: '2023',
+      from: '2022',
       to: 'Present',
       companyLink: '',
     },
@@ -121,7 +121,7 @@ const CONFIG = {
       institution: 'Champlain College',
       degree: 'B.S. Game Programming',
       from: '2021',
-      to: 'Present',
+      to: '2026',
     },
     {
       institution: '',
